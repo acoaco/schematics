@@ -1,3 +1,3 @@
 # schematics
 Mindustry schematics
-for Mindustry 5.0 build 100
+for Mindustry 6.0 build 121
